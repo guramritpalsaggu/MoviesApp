@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "guri"]
+	url = https://github.com/guramritpalsaggu/MoviesApp.git
+	fetch = +refs/heads/*:refs/remotes/guri/*
